@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "853176132229",
+    "project_id": "projet-pfa-e047e",
+    "storage_bucket": "projet-pfa-e047e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853176132229:android:15698451df9d2f2b7b3fec",
+        "android_client_info": {
+          "package_name": "thierrymubang.job"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853176132229-haq6s48nkjiuu3l4hel9m3d6hjbc32mh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD684mGQjglmauwYOxOCwj-SJh0FGKwfYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853176132229-haq6s48nkjiuu3l4hel9m3d6hjbc32mh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
